@@ -1,0 +1,1 @@
+javascript:%28function%28%29%7B%28function%28%29%7Bvar%20i%2Celements%3Ddocument.querySelectorAll%28%27%2A%27%29%3Bfor%28i%3D0%3Bi%3Celements.length%3Bi%2B%2B%29%7Blet%20style%3Delements%5Bi%5D.style%3Bstyle.visibility%3D%27visible%27%3Bstyle.overflowY%3D%27auto%27%3Bstyle.position%3D%27static%27%7D%7D%29%28%29%7D%29%28%29
